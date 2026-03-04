@@ -1,8 +1,11 @@
-# Telegram WeatherBot
+# Weather Alert & Data Logging Pipeline
 
-An automated weather alert system for rain, snow, and temperature built with **n8n**. Monitors weather during class hours (8 AM - 5 PM) and evening hours (5 PM - 12 AM).
+An automated weather alert system built with **n8n**. 
+Featuring:
+1) Alerts for rain, snow, and temperature 
+2) Data pipeline logging predictions vs. actual weather data into Google Sheets everyday for accuracy tracking
 
-It also logs predictions vs. actual weather data into Google Sheets for accuracy tracking: [View My Demo Google Sheet Here](https://docs.google.com/spreadsheets/d/1OaOczzJYu0bQVdxowieUxfSqqHm83aAmB0Ej2sZ3ruU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRVNe4HU8EPpL1YDf07ZsrQW6otl9MsIZLo9baaGXQtTsA6CqOnn09mzTLV1nKl6rfYv9gjYOGlaYs4/pubhtml?gid=0&single=true )
+[View My Demo Google Sheet Here](https://docs.google.com/spreadsheets/d/1OaOczzJYu0bQVdxowieUxfSqqHm83aAmB0Ej2sZ3ruU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRVNe4HU8EPpL1YDf07ZsrQW6otl9MsIZLo9baaGXQtTsA6CqOnn09mzTLV1nKl6rfYv9gjYOGlaYs4/pubhtml?gid=0&single=true )
 
 ## Repository Structure
 
