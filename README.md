@@ -23,7 +23,7 @@ Featuring:
 
 ## Prerequisites
 
-* **n8n:** Self-hosted (Docker/Node.js) or Cloud version.
+* **n8n:** Self-hosted (Docker/Hostinger) or Cloud version.
 * **Telegram Bot:** You need a Bot Token from `@BotFather`.
 * **WeatherAPI Key:** Free API key from [WeatherAPI.com](https://www.weatherapi.com/).
 * **Google Service Account:** You need a Google Cloud project with the **Google Sheets API** enabled. You must generate a Service Account email and JSON key file to authenticate.
